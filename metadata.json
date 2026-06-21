@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Copilot",
+  "description": "An intelligent student-focused platform that works as a personal AI teacher, customizable study planner, performance tracker, and doubt solver.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
