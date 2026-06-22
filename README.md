@@ -1,4 +1,4 @@
-# 🎯 AI Study Copilot
+# 🎯 world AI Study Copilot
 
 > A high-fidelity, all-in-one educational workspace powered by React, Node.js, and Google's Gemini API. Designed to act as a synchronized personal teacher, expert scheduler, robust document note extractor, instant blackboard tutor, and realistic licensing board exam simulator. 
 
